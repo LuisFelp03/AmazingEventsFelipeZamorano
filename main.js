@@ -3,6 +3,7 @@ console.log("prueba");
 const data = {
     currentDate: "2023-01-01",
     events: [
+
         {
             _id: "639c723b992482e5f2834be9",
             name: "Collectivities Party",
